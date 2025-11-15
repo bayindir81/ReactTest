@@ -4,47 +4,26 @@
  */
 
 // ============================================
-// ENUMS
+// TYPE DEFINITIONS
 // ============================================
 
-export enum CEFRLevel {
-  A1 = 'A1',
-  A2 = 'A2',
-  B1 = 'B1',
-  B2 = 'B2',
-  C1 = 'C1',
-  C2 = 'C2',
-}
+export type CEFRLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
 
-export enum SeriesCategory {
-  DRAMA = 'drama',
-  COMEDY = 'comedy',
-  SCIFI = 'scifi',
-  THRILLER = 'thriller',
-  DOCUMENTARY = 'documentary',
-  ANIMATION = 'animation',
-  CRIME = 'crime',
-  FANTASY = 'fantasy',
-}
+export type SeriesCategory =
+  | 'drama'
+  | 'comedy'
+  | 'scifi'
+  | 'thriller'
+  | 'documentary'
+  | 'animation'
+  | 'crime'
+  | 'fantasy';
 
-export enum WordKnowledgeStatus {
-  UNKNOWN = 'unknown',
-  KNOWN = 'known',
-  LEARNING = 'learning',
-}
+export type WordKnowledgeStatus = 'unknown' | 'known' | 'learning';
 
-export enum LearningMode {
-  WORD = 'word',
-  SENTENCE = 'sentence',
-  SUBTITLE = 'subtitle',
-}
+export type LearningMode = 'word' | 'sentence' | 'subtitle';
 
-export enum FilterType {
-  POPULAR = 'popular',
-  NEW = 'new',
-  BEGINNER = 'beginner',
-  ADVANCED = 'advanced',
-}
+export type FilterType = 'popular' | 'new' | 'beginner' | 'advanced';
 
 // ============================================
 // SERIES MODELS

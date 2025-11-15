@@ -183,7 +183,7 @@ const SubtitlePlayerScreen: React.FC = () => {
           <View style={styles.modalContent}>
             <View style={styles.modalHeader}>
               <Text style={styles.modalTitle}>
-                {selectedWord?.charAt(0).toUpperCase() + selectedWord?.slice(1)}
+                {selectedWord ? selectedWord.charAt(0).toUpperCase() + selectedWord.slice(1) : ''}
               </Text>
               <TouchableOpacity onPress={() => setShowWordModal(false)}>
                 <Ionicons name="close" size={28} color="#6b7280" />

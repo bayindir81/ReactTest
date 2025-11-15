@@ -64,7 +64,7 @@ const SeriesDetailScreen: React.FC = () => {
             S{item.seasonNumber}E{item.episodeNumber}
           </Text>
           {item.hasSubtitles && (
-            <Ionicons name="closed-captioning" size={16} color="#6366f1" />
+            <Ionicons name="chatbox-ellipses-outline" size={16} color="#6366f1" />
           )}
         </View>
 

@@ -129,7 +129,7 @@ const LearningScreen: React.FC = () => {
 
       {/* Daily Goal */}
       <View style={styles.goalCard}>
-        <Ionicons name="target" size={32} color="#6366f1" />
+        <Ionicons name="radio-button-on" size={32} color="#6366f1" />
         <View style={styles.goalContent}>
           <Text style={styles.goalTitle}>Daily Goal</Text>
           <Text style={styles.goalText}>
