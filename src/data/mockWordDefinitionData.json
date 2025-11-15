@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "word": {
+      "word": "remarkable",
+      "phonetic": "/rɪˈmɑːrkəbl/",
+      "phoneticAudio": "https://example.com/audio/remarkable.mp3",
+      "level": "B2",
+      "frequency": 7,
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "worthy of attention; striking",
+              "example": "The film has some remarkable special effects.",
+              "translation": "Dikkat çekici, olağanüstü"
+            },
+            {
+              "definition": "unusual or surprising in a way that causes people to take notice",
+              "example": "She has made remarkable progress in her English.",
+              "translation": "Kayda değer, dikkate değer"
+            }
+          ],
+          "synonyms": ["extraordinary", "exceptional", "amazing", "outstanding"],
+          "antonyms": ["ordinary", "unremarkable", "common"]
+        }
+      ]
+    }
+  }
+}

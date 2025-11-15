@@ -1,0 +1,668 @@
+{
+  "success": true,
+  "data": {
+    "subtitle": {
+      "episodeId": "ep_friends_s01e01",
+      "language": "en",
+      "totalWords": 245,
+      "uniqueWords": 156,
+      "averageWordsPerLine": 8.2,
+      "lines": [
+        {
+          "id": "sub_1",
+          "index": 0,
+          "startTime": 5.2,
+          "endTime": 8.5,
+          "text": "There's nothing to tell! He's just some guy I work with!",
+          "translation": "Anlatacak bir şey yok! Sadece birlikte çalıştığım biri!",
+          "words": [
+            {
+              "id": "w_1_1",
+              "word": "There's",
+              "normalizedWord": "there's",
+              "startIndex": 0,
+              "endIndex": 7,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_2",
+              "word": "nothing",
+              "normalizedWord": "nothing",
+              "startIndex": 8,
+              "endIndex": 15,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_3",
+              "word": "to",
+              "normalizedWord": "to",
+              "startIndex": 16,
+              "endIndex": 18,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_4",
+              "word": "tell",
+              "normalizedWord": "tell",
+              "startIndex": 19,
+              "endIndex": 23,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_5",
+              "word": "!",
+              "normalizedWord": "!",
+              "startIndex": 23,
+              "endIndex": 24,
+              "isPunctuation": true
+            },
+            {
+              "id": "w_1_6",
+              "word": "He's",
+              "normalizedWord": "he's",
+              "startIndex": 25,
+              "endIndex": 29,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_7",
+              "word": "just",
+              "normalizedWord": "just",
+              "startIndex": 30,
+              "endIndex": 34,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_8",
+              "word": "some",
+              "normalizedWord": "some",
+              "startIndex": 35,
+              "endIndex": 39,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_9",
+              "word": "guy",
+              "normalizedWord": "guy",
+              "startIndex": 40,
+              "endIndex": 43,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_10",
+              "word": "I",
+              "normalizedWord": "i",
+              "startIndex": 44,
+              "endIndex": 45,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_11",
+              "word": "work",
+              "normalizedWord": "work",
+              "startIndex": 46,
+              "endIndex": 50,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_12",
+              "word": "with",
+              "normalizedWord": "with",
+              "startIndex": 51,
+              "endIndex": 55,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_1_13",
+              "word": "!",
+              "normalizedWord": "!",
+              "startIndex": 55,
+              "endIndex": 56,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_2",
+          "index": 1,
+          "startTime": 9.0,
+          "endTime": 11.8,
+          "text": "Come on, you're going out with the guy!",
+          "translation": "Hadi ama, adamla çıkıyorsun!",
+          "words": [
+            {
+              "id": "w_2_1",
+              "word": "Come",
+              "normalizedWord": "come",
+              "startIndex": 0,
+              "endIndex": 4,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_2",
+              "word": "on",
+              "normalizedWord": "on",
+              "startIndex": 5,
+              "endIndex": 7,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_3",
+              "word": ",",
+              "normalizedWord": ",",
+              "startIndex": 7,
+              "endIndex": 8,
+              "isPunctuation": true
+            },
+            {
+              "id": "w_2_4",
+              "word": "you're",
+              "normalizedWord": "you're",
+              "startIndex": 9,
+              "endIndex": 15,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_5",
+              "word": "going",
+              "normalizedWord": "going",
+              "startIndex": 16,
+              "endIndex": 21,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_6",
+              "word": "out",
+              "normalizedWord": "out",
+              "startIndex": 22,
+              "endIndex": 25,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_7",
+              "word": "with",
+              "normalizedWord": "with",
+              "startIndex": 26,
+              "endIndex": 30,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_8",
+              "word": "the",
+              "normalizedWord": "the",
+              "startIndex": 31,
+              "endIndex": 34,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_9",
+              "word": "guy",
+              "normalizedWord": "guy",
+              "startIndex": 35,
+              "endIndex": 38,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_2_10",
+              "word": "!",
+              "normalizedWord": "!",
+              "startIndex": 38,
+              "endIndex": 39,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_3",
+          "index": 2,
+          "startTime": 12.1,
+          "endTime": 15.3,
+          "text": "There's gotta be something wrong with him!",
+          "translation": "Onda bir sorun olmalı!",
+          "words": [
+            {
+              "id": "w_3_1",
+              "word": "There's",
+              "normalizedWord": "there's",
+              "startIndex": 0,
+              "endIndex": 7,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_2",
+              "word": "gotta",
+              "normalizedWord": "gotta",
+              "startIndex": 8,
+              "endIndex": 13,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_3",
+              "word": "be",
+              "normalizedWord": "be",
+              "startIndex": 14,
+              "endIndex": 16,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_4",
+              "word": "something",
+              "normalizedWord": "something",
+              "startIndex": 17,
+              "endIndex": 26,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_5",
+              "word": "wrong",
+              "normalizedWord": "wrong",
+              "startIndex": 27,
+              "endIndex": 32,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_6",
+              "word": "with",
+              "normalizedWord": "with",
+              "startIndex": 33,
+              "endIndex": 37,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_7",
+              "word": "him",
+              "normalizedWord": "him",
+              "startIndex": 38,
+              "endIndex": 41,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_3_8",
+              "word": "!",
+              "normalizedWord": "!",
+              "startIndex": 41,
+              "endIndex": 42,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_4",
+          "index": 3,
+          "startTime": 15.8,
+          "endTime": 18.2,
+          "text": "All right Joey, be nice.",
+          "translation": "Tamam Joey, nazik ol.",
+          "words": [
+            {
+              "id": "w_4_1",
+              "word": "All",
+              "normalizedWord": "all",
+              "startIndex": 0,
+              "endIndex": 3,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_4_2",
+              "word": "right",
+              "normalizedWord": "right",
+              "startIndex": 4,
+              "endIndex": 9,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_4_3",
+              "word": "Joey",
+              "normalizedWord": "joey",
+              "startIndex": 10,
+              "endIndex": 14,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_4_4",
+              "word": ",",
+              "normalizedWord": ",",
+              "startIndex": 14,
+              "endIndex": 15,
+              "isPunctuation": true
+            },
+            {
+              "id": "w_4_5",
+              "word": "be",
+              "normalizedWord": "be",
+              "startIndex": 16,
+              "endIndex": 18,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_4_6",
+              "word": "nice",
+              "normalizedWord": "nice",
+              "startIndex": 19,
+              "endIndex": 23,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_4_7",
+              "word": ".",
+              "normalizedWord": ".",
+              "startIndex": 23,
+              "endIndex": 24,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_5",
+          "index": 4,
+          "startTime": 18.5,
+          "endTime": 22.1,
+          "text": "So does he have a hump? A hump and a hairpiece?",
+          "translation": "Peki kamburu var mı? Kambur ve peruk?",
+          "words": [
+            {
+              "id": "w_5_1",
+              "word": "So",
+              "normalizedWord": "so",
+              "startIndex": 0,
+              "endIndex": 2,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_2",
+              "word": "does",
+              "normalizedWord": "does",
+              "startIndex": 3,
+              "endIndex": 7,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_3",
+              "word": "he",
+              "normalizedWord": "he",
+              "startIndex": 8,
+              "endIndex": 10,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_4",
+              "word": "have",
+              "normalizedWord": "have",
+              "startIndex": 11,
+              "endIndex": 15,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_5",
+              "word": "a",
+              "normalizedWord": "a",
+              "startIndex": 16,
+              "endIndex": 17,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_6",
+              "word": "hump",
+              "normalizedWord": "hump",
+              "startIndex": 18,
+              "endIndex": 22,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_7",
+              "word": "?",
+              "normalizedWord": "?",
+              "startIndex": 22,
+              "endIndex": 23,
+              "isPunctuation": true
+            },
+            {
+              "id": "w_5_8",
+              "word": "A",
+              "normalizedWord": "a",
+              "startIndex": 24,
+              "endIndex": 25,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_9",
+              "word": "hump",
+              "normalizedWord": "hump",
+              "startIndex": 26,
+              "endIndex": 30,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_10",
+              "word": "and",
+              "normalizedWord": "and",
+              "startIndex": 31,
+              "endIndex": 34,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_11",
+              "word": "a",
+              "normalizedWord": "a",
+              "startIndex": 35,
+              "endIndex": 36,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_12",
+              "word": "hairpiece",
+              "normalizedWord": "hairpiece",
+              "startIndex": 37,
+              "endIndex": 46,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_5_13",
+              "word": "?",
+              "normalizedWord": "?",
+              "startIndex": 46,
+              "endIndex": 47,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_6",
+          "index": 5,
+          "startTime": 22.5,
+          "endTime": 25.8,
+          "text": "Wait, does he eat chalk?",
+          "translation": "Dur, tebeşir mi yiyor?",
+          "words": [
+            {
+              "id": "w_6_1",
+              "word": "Wait",
+              "normalizedWord": "wait",
+              "startIndex": 0,
+              "endIndex": 4,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_6_2",
+              "word": ",",
+              "normalizedWord": ",",
+              "startIndex": 4,
+              "endIndex": 5,
+              "isPunctuation": true
+            },
+            {
+              "id": "w_6_3",
+              "word": "does",
+              "normalizedWord": "does",
+              "startIndex": 6,
+              "endIndex": 10,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_6_4",
+              "word": "he",
+              "normalizedWord": "he",
+              "startIndex": 11,
+              "endIndex": 13,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_6_5",
+              "word": "eat",
+              "normalizedWord": "eat",
+              "startIndex": 14,
+              "endIndex": 17,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_6_6",
+              "word": "chalk",
+              "normalizedWord": "chalk",
+              "startIndex": 18,
+              "endIndex": 23,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_6_7",
+              "word": "?",
+              "normalizedWord": "?",
+              "startIndex": 23,
+              "endIndex": 24,
+              "isPunctuation": true
+            }
+          ]
+        },
+        {
+          "id": "sub_7",
+          "index": 6,
+          "startTime": 26.2,
+          "endTime": 29.5,
+          "text": "I just don't want her to go through what I went through with Carl.",
+          "translation": "Onun Carl ile yaşadıklarımı yaşamasını istemiyorum.",
+          "words": [
+            {
+              "id": "w_7_1",
+              "word": "I",
+              "normalizedWord": "i",
+              "startIndex": 0,
+              "endIndex": 1,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_2",
+              "word": "just",
+              "normalizedWord": "just",
+              "startIndex": 2,
+              "endIndex": 6,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_3",
+              "word": "don't",
+              "normalizedWord": "don't",
+              "startIndex": 7,
+              "endIndex": 12,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_4",
+              "word": "want",
+              "normalizedWord": "want",
+              "startIndex": 13,
+              "endIndex": 17,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_5",
+              "word": "her",
+              "normalizedWord": "her",
+              "startIndex": 18,
+              "endIndex": 21,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_6",
+              "word": "to",
+              "normalizedWord": "to",
+              "startIndex": 22,
+              "endIndex": 24,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_7",
+              "word": "go",
+              "normalizedWord": "go",
+              "startIndex": 25,
+              "endIndex": 27,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_8",
+              "word": "through",
+              "normalizedWord": "through",
+              "startIndex": 28,
+              "endIndex": 35,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_9",
+              "word": "what",
+              "normalizedWord": "what",
+              "startIndex": 36,
+              "endIndex": 40,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_10",
+              "word": "I",
+              "normalizedWord": "i",
+              "startIndex": 41,
+              "endIndex": 42,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_11",
+              "word": "went",
+              "normalizedWord": "went",
+              "startIndex": 43,
+              "endIndex": 47,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_12",
+              "word": "through",
+              "normalizedWord": "through",
+              "startIndex": 48,
+              "endIndex": 55,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_13",
+              "word": "with",
+              "normalizedWord": "with",
+              "startIndex": 56,
+              "endIndex": 60,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_14",
+              "word": "Carl",
+              "normalizedWord": "carl",
+              "startIndex": 61,
+              "endIndex": 65,
+              "isPunctuation": false
+            },
+            {
+              "id": "w_7_15",
+              "word": ".",
+              "normalizedWord": ".",
+              "startIndex": 65,
+              "endIndex": 66,
+              "isPunctuation": true
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "data": {
+    "episodes": [
+      {
+        "id": "ep_friends_s01e01",
+        "seriesId": "series_1",
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "title": "The One Where Monica Gets a Roommate",
+        "description": "Monica and the gang introduce Rachel to the real world after she leaves her fiancé at the altar.",
+        "thumbnail": "https://example.com/friends-s01e01-thumb.jpg",
+        "duration": 1320,
+        "releaseDate": "1994-09-22",
+        "subtitleUrl": "https://example.com/subtitles/friends-s01e01.json",
+        "hasSubtitles": true,
+        "level": "B1"
+      },
+      {
+        "id": "ep_friends_s01e02",
+        "seriesId": "series_1",
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "The One with the Sonogram at the End",
+        "description": "Ross finds out his ex-wife is pregnant. Monica goes on a date with Paul the wine guy.",
+        "thumbnail": "https://example.com/friends-s01e02-thumb.jpg",
+        "duration": 1320,
+        "releaseDate": "1994-09-29",
+        "subtitleUrl": "https://example.com/subtitles/friends-s01e02.json",
+        "hasSubtitles": true,
+        "level": "B1"
+      },
+      {
+        "id": "ep_friends_s01e03",
+        "seriesId": "series_1",
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "title": "The One with the Thumb",
+        "description": "Monica becomes irritated when everyone likes her new boyfriend more than she does.",
+        "thumbnail": "https://example.com/friends-s01e03-thumb.jpg",
+        "duration": 1320,
+        "releaseDate": "1994-10-06",
+        "subtitleUrl": "https://example.com/subtitles/friends-s01e03.json",
+        "hasSubtitles": true,
+        "level": "B1"
+      },
+      {
+        "id": "ep_office_s01e01",
+        "seriesId": "series_5",
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "title": "Pilot",
+        "description": "A documentary crew arrives at the office to film the daily lives of the employees.",
+        "thumbnail": "https://example.com/office-s01e01-thumb.jpg",
+        "duration": 1380,
+        "releaseDate": "2005-03-24",
+        "subtitleUrl": "https://example.com/subtitles/office-s01e01.json",
+        "hasSubtitles": true,
+        "level": "A2"
+      },
+      {
+        "id": "ep_office_s01e02",
+        "seriesId": "series_5",
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "Diversity Day",
+        "description": "Michael's off-color remark puts a sensitivity trainer in the office for the day.",
+        "thumbnail": "https://example.com/office-s01e02-thumb.jpg",
+        "duration": 1380,
+        "releaseDate": "2005-03-29",
+        "subtitleUrl": "https://example.com/subtitles/office-s01e02.json",
+        "hasSubtitles": true,
+        "level": "A2"
+      }
+    ],
+    "totalSeasons": 10
+  }
+}
